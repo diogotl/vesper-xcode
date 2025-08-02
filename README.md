@@ -2,7 +2,7 @@
 
 > **Peppermint and orange flavored dark theme for Xcode**
 
-A beautiful port of the popular [Vesper theme](https://github.com/raunofreiberg/vesper) by [Rauno Freiberg](https://github.com/raunofreiberg), brought to Xcode with love.
+A beautiful port of the popular [Vesper theme](https://github.com/raunofreiberg/vesper) by [Rauno Freiberg](https://github.com/raunofreiberg), brought to Xcode.
 
 ![Vesper Theme Preview](screenshots/preview.png)
 
